@@ -1,0 +1,5 @@
+python-binance
+pandas
+telethon
+watchdog
+python-telegram-bot
